@@ -1,0 +1,20 @@
+table {
+    margin-bottom: 10px;
+    border: 1px solid black;
+ }
+ table{
+ width: 100%;
+ }
+ 
+ th{
+     border: 1px solid black;
+ }
+ td{
+     border: 1px solid black;   
+ }
+ .view{
+  margin-left: 40px;
+ }
+ .indomie{
+ margin-left: 70px;
+ }
